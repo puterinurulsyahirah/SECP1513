@@ -1,4 +1,4 @@
-# SECP1513
+# SECP1513-07
 Assignments for Technology And Information System ( SECP1513 )
 ## ASSIGNMENT 1
 Report on Visit to NALI 2023 : https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf
