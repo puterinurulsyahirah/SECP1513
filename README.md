@@ -5,5 +5,5 @@ Report on Visit to NALI 2023 : https://github.com/puterinurulsyahirah/SECP1513/b
 ## 📌 ASSIGNMENT 2
 Poster on Industrial Talk 1 : https://github.com/puterinurulsyahirah/SECP1513/blob/main/INDUSTRIAL%20TALK%201.pdf
 ## 📌 ASSIGNMENT 3
-
+Video on Visit to UTM Digital : https://www.youtube.com/watch?v=3FbHJD4fgBo
 ## 📌 ASSIGNMENT 4
