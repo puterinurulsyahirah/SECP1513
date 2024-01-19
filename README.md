@@ -8,4 +8,5 @@ Assignments for Technology And Information System ( SECP1513 )
 [Video on Industrial Visit 2 ( UTM Digital )](https://www.youtube.com/watch?v=3FbHJD4fgBo)
 ## 📌 ASSIGNMENT 4
 [Report on Industrial Talk 2 ( Credence @ TM Subsidiary )](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/INDUSTRIAL%20TALK%202.pdf)
+## 📌 DESIGN TIHNKING
 
