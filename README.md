@@ -1,6 +1,6 @@
 # <img height="50" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Tech.gif"/> SECP1513-07
 
-Assignments for Technology And Information System ( SECP1513 )
+Here are the lists of assignments for Technology And Information System ( SECP1513 ) throughout the semester and my reflection on each of them.
 
 ### 📌 ASSIGNMENT 1 : [Report on Industrial Visit 1 ( NALI 2023 )](https://github.com/puterinurulsyahirah/SECP1513/blob/main/NALI2023.pdf)
 
