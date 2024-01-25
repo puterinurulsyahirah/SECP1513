@@ -52,4 +52,14 @@ During the industrial talk by Credence ( TM Subsidiary ), I was exposed to lots 
 
 During the PC assembly activity, I was provided with valuable insights about computer hardware. Through the hands-on experience, I was exposed to different components of the PC, such as the motherboard, CPU fan, RAM, HDD, power supply, and many more. This activity gave me a chance to identify all those components correctly and know where to connect them on the PC. Through this practical activity, I learned how to reassemble and assemble a PC too. It was a rewarding experience as I went through all the processes, from identifying and sorting each component to carefully connecting the components and cables. This lab activity has also left me with a sense of accomplishment as my team successfully powered on the PC that we had assembled together. In addition, this PC assembly activity also attracted me to explore the world of computer hardware more to understand how different hardware and its components work. In short, this activity is undoubtedly a precious experience to deepen my understanding of computer hardware, which is one of the main components of an information system. In fact, this lab activity also had a powerful impact on the course, as I could enhance my skills through the course's activities, such as attention to detail and teamwork, which are crucial to becoming a professional in this IT field in the future.
 
-## 📌 Design Thinking
+## 📌 Design Thinking : [Design Thinking](https://github.com/puterinurulsyahirah/SECP1513-07/blob/main/DESIGN%20THINKING.pdf)
+
+<div align="center">
+  <img height="350" src="https://github.com/puterinurulsyahirah/puterinurulsyahirah/blob/main/Design%20Thinking.gif"/>
+</div>
+
+<br>
+
+My goals with regard to my course are to develop as much knowledge as possible about tools and technologies regarding graphics and multimedia software. My aim is to equip myself with all required skills and use them to solve real-time problems. By gaining experience through programmes, I could improve my critical thinking skills to solve problems effectively. This design thinking is undoubtedly impactful on my goal with regard to my course because it requires me to go through five important processes to come up with a powerful solution for the problem. For instance, we started with the empathy phase to understand user's problems so we could brainstorm ideas to find the best functional approach for them. These processes help improve my problem-solving skills as well as my communication skills, as I have to engage with users and discuss with my team throughout the process. Some of my plans for improving my potential in the industry are to keep engaging with the newest technologies. This is significant to ensure that I can employ the best approach and make use of the newest tools to deal with problems. Besides, I will also keep upgrading my skills to boost my marketability upon graduating.
+
+
